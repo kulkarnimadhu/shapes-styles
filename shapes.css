@@ -1,0 +1,19 @@
+.circle{
+    text-align: center;
+}
+.d1, .d2, .d3, .d4, .d5, .d6, .d7, .d8, .d9{
+    width: 25px;
+    height: 25px;
+    background-color:blueviolet;
+    position: absolute;
+    border-radius: 50%;
+
+}
+.d1{
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.d9{
+    margin-left: 100px;
+    margin-top: 20px;
+}
